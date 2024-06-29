@@ -1,4 +1,5 @@
 public class ArrayProcessing {
+
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5}; // Array of integers
         int sum = 0;
